@@ -1,0 +1,38 @@
+[
+  {
+    "id": "220",
+    "name": "Category 1 Name",
+    "description": "Category 1 Desc",
+    "roles": [
+      200
+    ]
+  },
+  {
+    "id": "230",
+    "name": "Category 2 Name",
+    "description": "Category 2 Desc",
+    "roles": [
+      200,
+      201,
+      202
+    ]
+  },
+  {
+    "id": "240",
+    "name": "Category 3 Name",
+    "description": "Category 3 Desc",
+    "roles": [
+      201
+    ],
+    "system": true
+  },
+  {
+    "id": "260",
+    "name": "Category 4 Name",
+    "description": "Category 4 Desc",
+    "roles": [
+      200,
+      201
+    ]
+  }
+]

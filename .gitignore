@@ -1,0 +1,10 @@
+/.gradle/
+/target/
+/build/
+/.idea/
+/out/
+/gradle/
+/.mvn/
+*.iml
+integration-test/build/
+integration-test/out/
